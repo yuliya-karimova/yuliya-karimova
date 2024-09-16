@@ -17,4 +17,3 @@ Team roles: team lead, fullstack developer, analyst.
 - JS and Vue animations
 - SQLite, SQLAlchemy, Python
 - English - B2, Upper-intermediate
-- Python
