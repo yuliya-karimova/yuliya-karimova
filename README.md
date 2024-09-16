@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hello 👋
+Eight years of IT experience, currently working as a front-end developer for a company that organizes game conferences around the world. In addition to development, I have experience in testing and UI/UX designing, which allows me to improve the quality of projects and optimize teamwork. 
 
-<!--
-**yuliya-karimova/yuliya-karimova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+During my spare time, I enjoy participating in AI and front-end hackathons, and regularly take prizes.   
+Team roles: team lead, fullstack developer, analyst.
 
-Here are some ideas to get you started:
+**CV:**  
+🇬🇧: <a href="https://docs.google.com/document/d/1rJTqFs9t4iWVhT_haTCQcvaiBsRVM_FZb0x2HRyKe28/edit?usp=sharing" target="_blank">link<a/> 
+🇷🇺: [link](https://docs.google.com/document/d/1FF06pvIF33VTWJMSnwoQiR8pNp5D9PwH6Pmj_9JOfLQ/edit?usp=sharing)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**SKILLS:**  
+- HTML, CSS, SCSS, JavaScript, Typescript
+- Vue, React, Pinia, Vuex, Redux, Nuxt, SSR, REST API
+-  Webpack, Vite, NPM
+- Git, GitHub, GitLab, Jira, Slack, Asana, Docker
+- Bootstrap, Tailwind, Tailwind CSS, Naive UI
+- JS and Vue animations
+- SQLite, SQLAlchemy, Python
+- English - B2, Upper-intermediate
+- Python
