@@ -5,7 +5,7 @@ During my spare time, I enjoy participating in AI and front-end hackathons, and 
 Team roles: team lead, fullstack developer, analyst.
 
 **CV:**  
-🇬🇧: <a href="https://docs.google.com/document/d/1rJTqFs9t4iWVhT_haTCQcvaiBsRVM_FZb0x2HRyKe28/edit?usp=sharing" target="_blank">link<a/> 
+🇬🇧: [link](https://docs.google.com/document/d/1rJTqFs9t4iWVhT_haTCQcvaiBsRVM_FZb0x2HRyKe28/edit?usp=sharing)  
 🇷🇺: [link](https://docs.google.com/document/d/1FF06pvIF33VTWJMSnwoQiR8pNp5D9PwH6Pmj_9JOfLQ/edit?usp=sharing)
 
 **SKILLS:**  
