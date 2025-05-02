@@ -1,5 +1,5 @@
 ## Hello 👋
-Eight years of IT experience, currently working as a front-end developer for a company that organizes game conferences around the world. In addition to development, I have experience in testing and UI/UX designing, which allows me to improve the quality of projects and optimize teamwork. 
+Eight years of IT experience, currently working as a front-end developer in Ozon Tech. In addition to development, I have experience in testing and UI/UX designing, which allows me to improve the quality of projects and optimize teamwork. 
 
 During my spare time, I enjoy participating in AI and front-end hackathons, and regularly take prizes.   
 Team roles: team lead, fullstack developer, analyst.
